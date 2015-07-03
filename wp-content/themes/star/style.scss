@@ -1242,6 +1242,7 @@ ul {
 }
 
 .chpcs_title {
+<<<<<<< HEAD
   font-weight: bold;
   font-size: 13px;
   text-align: left;
@@ -1252,6 +1253,13 @@ ul {
 	  display: block;
 	  font-weight: normal;
   }
+=======
+  font-weight: normal;
+  font-size: 14px;
+  text-align: left;
+  padding-top: 10px;
+  line-height: 19px;
+>>>>>>> origin/Angel
 
 	 a {
 
@@ -1261,12 +1269,21 @@ ul {
 
 .chpcs_foo_content {
 	text-align: left!important;
+<<<<<<< HEAD
   	margin: 10px 20px;
 }
 
 .chpcs_img img {
 	width: 160px;
 	height: 160px;
+=======
+  	margin: 10px;
+}
+
+.chpcs_img img {
+	width: 110px;
+	height: 110px;
+>>>>>>> origin/Angel
 }
  
  .chpcs_more {
