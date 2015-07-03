@@ -1242,11 +1242,16 @@ ul {
 }
 
 .chpcs_title {
-  font-weight: normal;
-  font-size: 14px;
+  font-weight: bold;
+  font-size: 13px;
   text-align: left;
   padding-top: 10px;
   line-height: 19px;
+  
+  span {
+	  display: block;
+	  font-weight: normal;
+  }
 
 	 a {
 
@@ -1256,12 +1261,12 @@ ul {
 
 .chpcs_foo_content {
 	text-align: left!important;
-  	margin: 10px;
+  	margin: 10px 20px;
 }
 
 .chpcs_img img {
-	width: 110px;
-	height: 110px;
+	width: 160px;
+	height: 160px;
 }
  
  .chpcs_more {

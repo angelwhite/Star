@@ -938,24 +938,21 @@ ul {
   color: #0083d7; }
 
 .chpcs_title {
-  font-weight: bold;
-  font-size: 13px;
+  font-weight: normal;
+  font-size: 14px;
   text-align: left;
   padding-top: 10px;
   line-height: 19px; }
-  .chpcs_title span {
-    display: block;
-    font-weight: normal; }
   .chpcs_title a {
     color: #5f5c5a; }
 
 .chpcs_foo_content {
   text-align: left !important;
-  margin: 10px 20px; }
+  margin: 10px; }
 
 .chpcs_img img {
-  width: 160px;
-  height: 160px; }
+  width: 180px;
+  height: 180px; }
 
 .chpcs_more a {
   text-align: left !important;
